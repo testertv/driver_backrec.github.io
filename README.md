@@ -18,8 +18,8 @@ Driver BackRec is a GUI for DISM and pnputil. The program helps the user to back
 
 <h3 style="text-align: center;"><span style="color: #3366ff;"><strong>Download last version for Windows:</strong></span></h3>
 
-ENG-Version: <h3><span style="text-decoration: underline;"><strong>https://github.com/testertv/tpdne.github.io/raw/master/Releases/TPDNE%20Downloader_v.05.08.2020.exe</strong></span></h3>
-RUS-Russian: <h3><span style="text-decoration: underline;"><strong>https://github.com/testertv/tpdne.github.io/raw/master/Releases/TPDNE%20Downloader_v.05.08.2020.exe</strong></span></h3>
+ENG-Version: <h3><span style="text-decoration: underline;"><strong>https://github.com/testertv/driver_backrec.github.io/blob/master/Releases/Driver%20BackRec_v.2020.07.23(ENG).exe</strong></span></h3>
+RUS-Russian: <h3><span style="text-decoration: underline;"><strong>https://github.com/testertv/driver_backrec.github.io/raw/master/Releases/Driver%20BackRec_v.2020.07.23(RUS).exe</strong></span></h3>
 
 
 
