@@ -12,7 +12,7 @@ Driver BackRec is a GUI for DISM and pnputil. The program helps the user to back
 - Currently, the program only supports Windows 10
 - Program needs Admin-Rights (because of DISM and cmd)
 - It's Beta version
-- It's free, portable and open source
+- It's free, portable and open source (GPL-3.0 License)    
 
 
 
