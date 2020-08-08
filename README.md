@@ -14,8 +14,6 @@ Driver BackRec is a GUI for DISM and pnputil. The program helps the user to back
 - It's Beta version
 - It's free, portable and open source
 
-<a href="https://github.com/testertv/tpdne.github.io"><img src="https://raw.githubusercontent.com/testertv/tpdne.github.io/master/screen.jpg?raw=true" alt="test-pattern-152459-1280" border="0"></a>
-
 
 
 <h3 style="text-align: center;"><span style="color: #3366ff;"><strong>Download last version for Windows:</strong></span></h3>
